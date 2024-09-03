@@ -35,6 +35,8 @@ git add requirements.txt
 git commit -m "Environment | Primeras dependencias"
 git push origin main
 
+Set-ExecutionPolicy RemoteSigned -Scope Process
+
 
 
 ###  enviar  a github
